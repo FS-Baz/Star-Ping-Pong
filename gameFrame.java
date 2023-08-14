@@ -8,7 +8,7 @@ public class gameFrame extends JFrame{
         panel = new gamePanel();
         
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.setTitle("Sand box");   
+        this.setTitle("Star ball");   
         this.add(panel); 
         this.setResizable(false);
         this.pack();
